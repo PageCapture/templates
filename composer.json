@@ -1,0 +1,10 @@
+{
+    "name": "pagecapture/templates",
+    "authors": [
+        {
+            "name": "PageCapture",
+            "email": "peter@pagecapture.io"
+        }
+    ],
+    "require": {}
+}
